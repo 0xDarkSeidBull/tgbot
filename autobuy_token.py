@@ -7,7 +7,7 @@ API_HASH = '5d5c0797293505649aaa30aa8d1af14a'  # Get this from https://my.telegr
 SESSION_NAME = 'auto_buy_session'
 
 # Replace these with the IDs of the source group and Trojan bot
-SOURCE_GROUP_ID = '@buybottttt'  # Use @userinfobot to get the group ID
+SOURCE_GROUP_ID = '@rothschildalpha'  # Use @userinfobot to get the group ID
 TROJAN_BOT_ID = '@solana_trojanbot'  # Replace with Trojan Bot's username (e.g., "@TrojanOnSolana")
 
 # Solana address regex pattern (matches valid Solana token contract addresses)
