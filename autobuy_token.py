@@ -8,7 +8,7 @@ SESSION_NAME = 'auto_buy_session'
 
 # Replace these with the IDs of the source group and Trojan bot
 SOURCE_GROUP_ID = '@RJ_Insights'  # Use @userinfobot to get the group ID
-TROJAN_BOT_ID = '@bonkbot_bot'  # Replace with Trojan Bot's username (e.g., "@TrojanOnSolana")
+TROJAN_BOT_ID = '@@solana_trojanbot'  # Replace with Trojan Bot's username (e.g., "@TrojanOnSolana")
 
 # Solana address regex pattern (matches valid Solana token contract addresses)
 SOLANA_ADDRESS_REGEX = r'\b[1-9A-HJ-NP-Za-km-z]{32,44}\b'
@@ -43,6 +43,7 @@ def main():
 
 if __name__ == "__main__":
     main()
+
 
 
 
